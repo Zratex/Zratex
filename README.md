@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Zratex (real pseudo name : Zratey)
-- 👀 I’m interested in Discord py
-- 🌱 I’m currently learning everything to be honest
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Discord: Zratey#0860 | Youtube: youtube.com/c/Zratey | Twitter: twitter.com/Zratey
+# Zratey
+I'm Zratey (Git username : `Zratex`), 🇫🇷 developer using Github for either properly develop projects regarding my Youtube/Twitch, or for various personnal projects.
 
-<!---
-Zratex/Zratex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Checkout my, still under-development website to have a proper tour about my projects : https://zratex.github.io/#/projects
